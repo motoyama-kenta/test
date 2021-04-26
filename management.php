@@ -331,7 +331,7 @@ require("f/state_info.php");
 		<div id="loader" class="is-hide">
 			<p>
 				<img src="images/pc/1495.gif"><br>
-				更新中...
+				更新中..
 			</p>
 		</div>
 	</div>
